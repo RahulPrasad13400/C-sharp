@@ -1,0 +1,15 @@
+C:\Users\rahul\OneDrive\Documents\GitHub\C-sharp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.exe
+C:\Users\rahul\OneDrive\Documents\GitHub\C-sharp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.deps.json
+C:\Users\rahul\OneDrive\Documents\GitHub\C-sharp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.runtimeconfig.json
+C:\Users\rahul\OneDrive\Documents\GitHub\C-sharp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.dll
+C:\Users\rahul\OneDrive\Documents\GitHub\C-sharp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.pdb
+C:\Users\rahul\OneDrive\Documents\GitHub\C-sharp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\OneDrive\Documents\GitHub\C-sharp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rahul\OneDrive\Documents\GitHub\C-sharp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\rahul\OneDrive\Documents\GitHub\C-sharp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rahul\OneDrive\Documents\GitHub\C-sharp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.sourcelink.json
+C:\Users\rahul\OneDrive\Documents\GitHub\C-sharp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.dll
+C:\Users\rahul\OneDrive\Documents\GitHub\C-sharp\MyConsoleApp\obj\Debug\net9.0\refint\MyConsoleApp.dll
+C:\Users\rahul\OneDrive\Documents\GitHub\C-sharp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.pdb
+C:\Users\rahul\OneDrive\Documents\GitHub\C-sharp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\rahul\OneDrive\Documents\GitHub\C-sharp\MyConsoleApp\obj\Debug\net9.0\ref\MyConsoleApp.dll
