@@ -1,4 +1,5 @@
 ﻿using MyConsoleApp;
+using static MyConsoleApp.Ingredient;
 
 public class HelloWorld
 {
@@ -50,8 +51,9 @@ public class HelloWorld
         //Console.WriteLine("007 random : "+ result);
 
         Pizza pizza = new Pizza();
-        pizza.AddIngredient(new Cheddar());
-        Console.WriteLine(pizza.Describe());
+        Cheddar cheddar = new Cheddar();
+        Console.WriteLine(cheddar.PublicMethod());
+        // you cannot access the private method from here
     }
 }
     
