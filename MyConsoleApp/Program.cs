@@ -30,19 +30,28 @@ public class HelloWorld
 
 
         // Static Methods and Classes
-        int sum = StaticMethodsAndClasses.Add(5, 10);
-        int sub = StaticMethodsAndClasses.Sub(10, 5);
-        
-        var hello = new StaticMethodsAndClasses();
-        hello.Hello();  
+        //int sum = StaticMethodsAndClasses.Add(5, 10);
+        //int sub = StaticMethodsAndClasses.Sub(10, 5);
 
-        new StaticMethodsAndClasses();
+        //var hello = new StaticMethodsAndClasses();
+        //hello.Hello();  
 
-        Console.WriteLine(sum);
-        Console.WriteLine(sub);
+        //new StaticMethodsAndClasses();
 
-        Console.WriteLine("count of instance : " + StaticMethodsAndClasses.countInstanceOfClass);
-        Console.ReadKey();
+        //Console.WriteLine(sum);
+        //Console.WriteLine(sub);
 
+        //Console.WriteLine("count of instance : " + StaticMethodsAndClasses.countInstanceOfClass);
+        //Console.ReadKey();
+
+
+        //GuessingGame random = new GuessingGame(new Dice());
+        //GameResult result = random.Play();
+        //Console.WriteLine("007 random : "+ result);
+
+        Pizza pizza = new Pizza();
+        pizza.AddIngredient(new Cheddar());
+        Console.WriteLine(pizza.Describe());
     }
 }
+    
