@@ -50,10 +50,20 @@ public class HelloWorld
         //GameResult result = random.Play();
         //Console.WriteLine("007 random : "+ result);
 
-        Pizza pizza = new Pizza();
-        Cheddar cheddar = new Cheddar();
-        Console.WriteLine(cheddar.PublicMethod());
+        //Pizza pizza = new Pizza();
+        //Cheddar cheddar = new Cheddar();
+        //Console.WriteLine(cheddar.PublicMethod());
         // you cannot access the private method from here
+
+        List<int> numbers = new List<int>{ 1, 2, 3, 4, 5, -5 };
+        VirtualMethod virtualMethod = new VirtualMethod();
+        int sum = virtualMethod.Calculator(numbers);
+        Console.WriteLine("Sum : " + sum);
+
+        AddOnlyPositives addOnlyPositived = new();
+        int sum1 = addOnlyPositived.Calculator(numbers);
+        Console.WriteLine("sum1 : " + sum1);
+        Console.ReadKey();
     }
 }
     
