@@ -24,11 +24,7 @@
     {
         protected override bool shallBeAdded(int number)
         {
-            if(number > 0)
-            {
-                return true;
-            }
-            return false;
+            return number > 0;
         }
     }
 }

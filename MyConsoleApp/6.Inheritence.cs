@@ -18,8 +18,11 @@
 
     public class Ingredient
     {
-        public virtual string Name { get; set; }
-
+        public virtual string Name { get; set; } = "Hello Everyone";
+        public Ingredient()
+        {
+            Console.WriteLine("Ingredient");
+        }
         public string PublicMethod()
         {
             return "I am public method";
@@ -30,16 +33,42 @@
             return "I am private method";
         }
 
-        public class Cheddar : Ingredient
+        public override string ToString()
         {
-            public override string Name => "Cheddar Cheese";
-            public int AgeInMonths { get; }
+            return Name;
         }
+    }
 
-        public class TomatoSauce : Ingredient
+    public class Cheddar : Ingredient
+    {
+        public Cheddar()
         {
-            public override string Name => "Tomato Sauce";
-            public int TomatoesIn100Grams { get; }
+            Console.WriteLine("Cheddar");
+        }
+        public override string Name => "Cheddar Cheese";
+        public int AgeInMonths { get; }
+    }
+
+    public class TomatoSauce : Ingredient
+    {
+        public override string Name => "Tomato Sauce";
+        public int TomatoesIn100Grams { get; }
+    }
+
+    public class Football
+    {
+        public int Trophies { get; }
+        public Football(int tropy)
+        {
+           Trophies = tropy;
+        }
+    }
+
+    public class Messi : Football
+    {
+        public Messi(int trophy) : base(trophy)
+        {
+            
         }
     }
 
