@@ -22,5 +22,15 @@ int x = 10;
 }
 Console.WriteLine(y); // Error, y is out of scope here.
 
+// Void Methods
+void PrintMessage(string message) // A void method performs an action but doesn't return a value to the caller.
+{
+    Console.WriteLine("The message is : " + message);
+}
+
+string? input = Console.ReadLine();
+string message = string.IsNullOrEmpty(input) ? "Hello world" : input;
+PrintMessage(message);
+
 Console.ReadKey();
 Console.ReadLine();
