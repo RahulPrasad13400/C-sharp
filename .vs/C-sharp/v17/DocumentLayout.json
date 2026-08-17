@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\rahul\\OneDrive\\Documents\\GitHub\\C-sharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\rahul\\OneDrive\\Documents\\GitHub\\C-sharp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4761AE9-7EDA-4418-892F-FAEACC88B8FE}|secondTry\\secondTry.csproj|c:\\users\\rahul\\onedrive\\documents\\github\\c-sharp\\secondtry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4761AE9-7EDA-4418-892F-FAEACC88B8FE}|secondTry\\secondTry.csproj|solutionrelative:secondtry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EB94320-393E-EF2E-ED86-E779E6042B8C}|MyConsoleApp\\MyConsoleApp.csproj|c:\\users\\rahul\\onedrive\\documents\\github\\c-sharp\\myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EB94320-393E-EF2E-ED86-E779E6042B8C}|MyConsoleApp\\MyConsoleApp.csproj|solutionrelative:myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EB94320-393E-EF2E-ED86-E779E6042B8C}|MyConsoleApp\\MyConsoleApp.csproj|c:\\users\\rahul\\onedrive\\documents\\github\\c-sharp\\myconsoleapp\\6.inheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB94320-393E-EF2E-ED86-E779E6042B8C}|MyConsoleApp\\MyConsoleApp.csproj|solutionrelative:myconsoleapp\\6.inheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EB94320-393E-EF2E-ED86-E779E6042B8C}|MyConsoleApp\\MyConsoleApp.csproj|c:\\users\\rahul\\onedrive\\documents\\github\\c-sharp\\myconsoleapp\\7.virtualmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EB94320-393E-EF2E-ED86-E779E6042B8C}|MyConsoleApp\\MyConsoleApp.csproj|solutionrelative:myconsoleapp\\7.virtualmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EB94320-393E-EF2E-ED86-E779E6042B8C}|MyConsoleApp\\MyConsoleApp.csproj|c:\\users\\rahul\\onedrive\\documents\\github\\c-sharp\\myconsoleapp\\6.inheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EB94320-393E-EF2E-ED86-E779E6042B8C}|MyConsoleApp\\MyConsoleApp.csproj|solutionrelative:myconsoleapp\\6.inheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4761AE9-7EDA-4418-892F-FAEACC88B8FE}|secondTry\\secondTry.csproj|c:\\users\\rahul\\onedrive\\documents\\github\\c-sharp\\secondtry\\secondtry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4761AE9-7EDA-4418-892F-FAEACC88B8FE}|secondTry\\secondTry.csproj|solutionrelative:secondtry\\secondtry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\rahul\\OneDrive\\Documents\\GitHub\\C-sharp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB94320-393E-EF2E-ED86-E779E6042B8C}|MyConsoleApp\\MyConsoleApp.csproj|c:\\users\\rahul\\onedrive\\documents\\github\\c-sharp\\myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB94320-393E-EF2E-ED86-E779E6042B8C}|MyConsoleApp\\MyConsoleApp.csproj|solutionrelative:myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EB94320-393E-EF2E-ED86-E779E6042B8C}|MyConsoleApp\\MyConsoleApp.csproj|c:\\users\\rahul\\onedrive\\documents\\github\\c-sharp\\myconsoleapp\\5.dicerollgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +38,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "secondTry.csproj",
+              "DocumentMoniker": "C:\\Users\\rahul\\OneDrive\\Documents\\GitHub\\C-sharp\\secondTry\\secondTry.csproj",
+              "RelativeDocumentMoniker": "secondTry\\secondTry.csproj",
+              "ToolTip": "C:\\Users\\rahul\\OneDrive\\Documents\\GitHub\\C-sharp\\secondTry\\secondTry.csproj",
+              "RelativeToolTip": "secondTry\\secondTry.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-04T17:23:14.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\rahul\\OneDrive\\Documents\\GitHub\\C-sharp\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -46,49 +62,49 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-08-04T17:22:18.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-04T17:22:18.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rahul\\OneDrive\\Documents\\GitHub\\C-sharp\\secondTry\\Program.cs",
               "RelativeDocumentMoniker": "secondTry\\Program.cs",
               "ToolTip": "C:\\Users\\rahul\\OneDrive\\Documents\\GitHub\\C-sharp\\secondTry\\Program.cs",
               "RelativeToolTip": "secondTry\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-04T17:19:59.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "7.VirtualMethod.cs",
               "DocumentMoniker": "C:\\Users\\rahul\\OneDrive\\Documents\\GitHub\\C-sharp\\MyConsoleApp\\7.VirtualMethod.cs",
               "RelativeDocumentMoniker": "MyConsoleApp\\7.VirtualMethod.cs",
               "ToolTip": "C:\\Users\\rahul\\OneDrive\\Documents\\GitHub\\C-sharp\\MyConsoleApp\\7.VirtualMethod.cs",
               "RelativeToolTip": "MyConsoleApp\\7.VirtualMethod.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAxwBgAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA4wBgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-03T18:01:23.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "6.Inheritence.cs",
               "DocumentMoniker": "C:\\Users\\rahul\\OneDrive\\Documents\\GitHub\\C-sharp\\MyConsoleApp\\6.Inheritence.cs",
               "RelativeDocumentMoniker": "MyConsoleApp\\6.Inheritence.cs",
               "ToolTip": "C:\\Users\\rahul\\OneDrive\\Documents\\GitHub\\C-sharp\\MyConsoleApp\\6.Inheritence.cs",
               "RelativeToolTip": "MyConsoleApp\\6.Inheritence.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAywDkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T18:31:10.819Z"
+              "WhenOpened": "2025-12-29T18:31:10.819Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "5.DiceRollGame.cs",
               "DocumentMoniker": "C:\\Users\\rahul\\OneDrive\\Documents\\GitHub\\C-sharp\\MyConsoleApp\\5.DiceRollGame.cs",
               "RelativeDocumentMoniker": "MyConsoleApp\\5.DiceRollGame.cs",
@@ -100,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rahul\\OneDrive\\Documents\\GitHub\\C-sharp\\MyConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "MyConsoleApp\\Program.cs",
@@ -108,8 +124,7 @@
               "RelativeToolTip": "MyConsoleApp\\Program.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAywE0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T18:39:53.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T18:39:53.8Z"
             }
           ]
         }
