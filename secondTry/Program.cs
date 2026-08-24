@@ -20,7 +20,7 @@ int x = 10;
     int y = 20;
     Console.WriteLine(x); // OK, x is visible here.
 }
-Console.WriteLine(y); // Error, y is out of scope here.
+//Console.WriteLine(y); // Error, y is out of scope here.
 
 // Void Methods
 void PrintMessage(string message) // A void method performs an action but doesn't return a value to the caller.
@@ -31,6 +31,15 @@ void PrintMessage(string message) // A void method performs an action but doesn'
 string? input = Console.ReadLine();
 string message = string.IsNullOrEmpty(input) ? "Hello world" : input;
 PrintMessage(message);
+
+// Method with parameter and return value.
+int Add(int num1, int num2)
+{
+    return num1 + num2;
+}
+
+int addValue = Add(4, 5);
+Console.WriteLine(addValue);
 
 Console.ReadKey();
 Console.ReadLine();
