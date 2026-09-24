@@ -32,6 +32,15 @@ string? input = Console.ReadLine();
 string message = string.IsNullOrEmpty(input) ? "Hello world" : input;
 PrintMessage(message);
 
+// Method with parameter and return value.
+int Add(int num1, int num2)
+{
+    return num1 + num2;
+}
+
+int addValue = Add(4, 5);
+Console.WriteLine(addValue);
+
 // Convert string to int using int.Parse
 string value = "10";
 int realValue = int.Parse(value);
